@@ -2,7 +2,9 @@
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)" width="100"/>
 </div>
-<a href="https://www.linkedin.com/in/dylan-leray/"></a>
+<div id="links"
+<a href="https://www.linkedin.com/in/dylan-leray/">linkedin</a>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
